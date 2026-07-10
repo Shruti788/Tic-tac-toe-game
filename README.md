@@ -1,6 +1,10 @@
-#  Tic Tac Toe Game
+# 🎮 Tic Tac Toe Game
 
-This repository contains an implementation of the classic game of Tic-Tac-Toe!
+A modern and interactive implementation of the classic **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
+
+This project offers multiple game modes, score tracking, a responsive user interface, and an AI opponent that makes strategic moves, creating an enjoyable gameplay experience.
+
+---
 
 
 ## 🚀 Features
