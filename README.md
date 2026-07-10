@@ -6,17 +6,33 @@ This project offers multiple game modes, score tracking, a responsive user inter
 
 ---
 
+## ✨ Features
 
-## 🚀 Features
+- 🤖 **Single Player Mode**
+  - Play against an AI opponent.
 
-- 🕹️ **Single Player Mode**: Play against an AI opponent.
-- 👥 **Multiplayer Mode**: Play with your friend locally.
-- 📝 **Custom Names**: Enter player names before starting the game.
-- 🔄 **Multiple Matches**: Play best of 3 matches with score tracking.
-- 🎨 **Responsive Design**: Works on mobile, tablet, and desktop.
-- 🔗 **Share Game Link**: Invite friends to play using a shareable link.
-- 💥 **Animations**: Smooth X and O animations for a better user experience.
-- 🎯 **Clean UI**: Modern and minimalistic design with gradient effects.
+- 👥 **Multiplayer Mode**
+  - Play locally with a friend.
+
+- 📝 **Custom Player Names**
+  - Personalize the game before each match.
+
+- 🏆 **Best of 3 Matches**
+  - Automatic score tracking across multiple rounds.
+ 
+- 🧠 **Smart AI**
+  - AI follows a simple strategy to make intelligent moves.
+
+- 📱 **Responsive Design**
+  - Optimized for desktop, tablet, and mobile devices.
+
+- 🎨 **Modern UI**
+  - Clean layout with smooth animations and gradient effects.
+
+- 🔗 **Shareable Game**
+  - Easily share the game with your friends.
+
+---    
 
 ## How to Play
 
