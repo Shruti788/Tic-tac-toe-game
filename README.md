@@ -34,15 +34,16 @@ This project offers multiple game modes, score tracking, a responsive user inter
 
 ---    
 
-## How to Play
+## 🧠 AI Strategy
 
-1. **Open the game** in a browser.
-2. **Select a mode**: Single Player, Multiplayer, or Custom Game.
-3. **Enter player names** (if applicable).
-4. **Play the game** by clicking on the cells.
-5. **Check scores** and play up to 3 matches.
-6. **Share multiplayer link** to invite a friend.
+The AI chooses its moves using the following priority:
 
+1. ✅ Make a winning move.
+2. 🛡️ Block the opponent's winning move.
+3. 🎯 Take the center cell.
+4. 🎲 Pick a random available corner or side.
+
+---
 ## AI Logic
 
 The AI makes moves based on the following strategy:
