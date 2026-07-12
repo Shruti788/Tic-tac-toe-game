@@ -62,19 +62,24 @@ Tic-tac-toe-game/
 └── script.js
 ```
 
-## 📌 How to Run Locally
+---
 
-1. Clone the repository:
+## 🚀 Getting Started
+
+### Clone the Repository
 
 ```bash
 git clone https://github.com/Shruti788/Tic-tac-toe-game.git
 ```
-2. Navigate into the folder:
+
+### Navigate to the Project
 
 ```bash
-cd "TIC TAC TOE"
+cd Tic-tac-toe-game
 ```
-3. Open `index.html` in your browser.
 
+### Run the Project
 
-Have fun playing! 🎉
+Simply open **index.html** in your preferred web browser.
+
+---
