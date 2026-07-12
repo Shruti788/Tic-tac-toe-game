@@ -44,14 +44,14 @@ The AI chooses its moves using the following priority:
 4. 🎲 Pick a random available corner or side.
 
 ---
-## AI Logic
 
-The AI makes moves based on the following strategy:
+## 🛠️ Tech Stack
 
-1. Win if possible.
-2. Block the opponent from winning.
-3. Take the center cell.
-4. Take a random available corner or side.
+- HTML5
+- CSS3
+- JavaScript (ES6)
+
+---
 
 ## Technologies Used
 
