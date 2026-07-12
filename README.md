@@ -53,11 +53,14 @@ The AI chooses its moves using the following priority:
 
 ---
 
-## Technologies Used
+## 📂 Project Structure
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+```text
+Tic-tac-toe-game/
+│── index.html
+│── style.css
+└── script.js
+```
 
 ## 📌 How to Run Locally
 
