@@ -83,3 +83,14 @@ cd Tic-tac-toe-game
 Simply open **index.html** in your preferred web browser.
 
 ---
+
+## 🎮 How to Play
+
+1. Open the game in your browser.
+2. Choose your preferred game mode.
+3. Enter player names (optional).
+4. Take turns placing **X** and **O**.
+5. Win rounds and compete in a **Best of 3** series.
+6. Have fun!
+
+---
