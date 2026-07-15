@@ -110,3 +110,14 @@ While building this project, I practiced:
 
 ---
 
+## 🚀 Future Improvements
+
+- 🎵 Sound Effects
+- 🌙 Dark Mode
+- 🌐 Online Multiplayer
+- 🏅 Multiple AI Difficulty Levels
+- 💾 Save Match History with Local Storage
+- 📊 Player Statistics Dashboard
+
+---
+
