@@ -94,3 +94,19 @@ Simply open **index.html** in your preferred web browser.
 6. Have fun!
 
 ---
+
+## 📚 What I Learned
+
+While building this project, I practiced:
+
+- DOM Manipulation
+- Event Handling
+- Game Logic
+- Conditional Statements
+- JavaScript Functions
+- Responsive Web Design
+- State Management using Vanilla JavaScript
+- UI Design Principles
+
+---
+
