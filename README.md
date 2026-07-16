@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game
+# 🎮 Tic Tac Toe | Vanilla JavaScript
 
 A modern and interactive implementation of the classic **Tic Tac Toe** game built using **HTML, CSS, and JavaScript**.
 
