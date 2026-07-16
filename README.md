@@ -133,3 +133,13 @@ If you'd like to improve this project:
 4. Commit your changes.
 5. Open a Pull Request.
 
+---
+
+## ⭐ Support
+
+If you enjoyed this project, consider giving it a **⭐ Star** on GitHub.
+
+It helps support the project and motivates future improvements.
+
+
+
